@@ -43,6 +43,4 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 5. Start the Jupyter notebook by running the command `jupyter notebook`, a new browser tab/window will open with the running notebook
 
-## Instructions
-
-Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
+6. Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  

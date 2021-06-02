@@ -6,7 +6,9 @@
 
 For this project, you will train an agent to navigate (and collect bananas!) in a large, square world.  
 
-![Trained Agent][image1]
+Check out the video of the trained agent in action: 
+[![Trained agent in action](https://img.youtube.com/vi/FyRS7a_dnK0/0.jpg)](https://www.youtube.com/watch?v=FyRS7a_dnK0)
+
 
 ## Observation space
 The observation space is continuos and is composed of 37 states; it contains the agent's velocity, along with ray-based perception of objects around agent's forward direction.
